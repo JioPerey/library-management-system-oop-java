@@ -181,13 +181,13 @@ The program validates the following scenarios:
 - **Collections**: ArrayList for managing books and transactions
 
 ## Class Relationships
-1.**Person & Student** - Inheritance
-2.**Student & Transaction** - Association (bidirectional)
-3.**Transaction & Book** - Association (unidirectional)
-4.**Library & Book** - Aggregation
-5.**Library & Transaction** - Aggregation
-6.**Student & Book** - Dependency
-7.**Student & Library** - Dependency
+- **Person & Student** - Inheritance
+- **Student & Transaction** - Association (bidirectional)
+- **Transaction & Book** - Association (unidirectional)
+- **Library & Book** - Aggregation
+- **Library & Transaction** - Aggregation
+- **Student & Book** - Dependency
+- **Student & Library** - Dependency
 
 ## Technologies Used
 
