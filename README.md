@@ -80,8 +80,6 @@ java Main
 ![Program Output Screenshot](screenshots/output-screenshot2.png)
 ![Program Output Screenshot](screenshots/output-screenshot3.png)
 
-<details>
-<summary>Click to see full text output</summary>
 ```
 Adding books to the library...
 Book "JavaScript Basics" was added to the library.
@@ -160,7 +158,6 @@ BOOKS INVOLVED:
 Developed by Jio Perey
 03/16/2026
 ```
-</details>
 
 ## Test Cases Covered
 
